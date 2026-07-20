@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "My-Jingles",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Fields of Mistria",
+      "file": "jingles/Fields of Mistria OST_ Main Theme.mp3"
     },
     {
       "game": "Example Game 2",
